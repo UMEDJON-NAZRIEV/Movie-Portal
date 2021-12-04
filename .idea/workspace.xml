@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fee207ce-c0a8-4ab0-9e46-726e5c458750" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/movieapp250/src/components/Header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movieapp250/src/components/LoaderMovies.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movieapp250/src/components/ModalInfoMovies.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movieapp250/src/components/MoviePagination.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movieapp250/src/components/Rating.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movieapp250/src/components/Toast.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movieapp250/src/store/modules/loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movieapp250/src/store/modules/toast.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieapp250/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/movieapp250/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieapp250/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/movieapp250/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieapp250/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/movieapp250/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieapp250/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieapp250/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/movieapp250/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieapp250/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/movieapp250/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieapp250/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/movieapp250/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieapp250/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieapp250/src/views/Home.vue" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/movieapp250" />
+  </component>
+  <component name="ProjectId" id="20Rwcl2F9AiuIryJrtkwfTqmxon" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="E:\IDeeeee\WebStorm 2020.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\AllProjects\MOVIESdb250\movieapp250\src\store\modules" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AllProjects\MOVIESdb250\movieapp250\src\store" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/movieapp250/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="lint" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/movieapp250/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="lint" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/movieapp250/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.serve" />
+        <item itemvalue="npm.lint" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fee207ce-c0a8-4ab0-9e46-726e5c458750" name="Default Changelist" comment="" />
+      <created>1636020790103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636020790103</updated>
+      <workItem from="1636020790968" duration="31044000" />
+      <workItem from="1636561742301" duration="27061000" />
+      <workItem from="1636996005698" duration="5582000" />
+      <workItem from="1637080911769" duration="8000" />
+      <workItem from="1637082896875" duration="1072000" />
+      <workItem from="1637167259790" duration="9778000" />
+      <workItem from="1637296214348" duration="5799000" />
+      <workItem from="1637589892631" duration="2997000" />
+      <workItem from="1637796922823" duration="6808000" />
+      <workItem from="1637883687160" duration="6536000" />
+      <workItem from="1638289159956" duration="803000" />
+      <workItem from="1638424103026" duration="38529000" />
+      <workItem from="1638615679895" duration="1510000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="shellPath" value="E:\Git\bin\bash.exe" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="545" y="254" key="#Notifications" timestamp="1637171436230">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="545" y="254" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1637171436230" />
+    <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1636023254230">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1636023254230" />
+    <state x="558" y="300" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1637177079027">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="558" y="300" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1600.860@0.0.1600.860" timestamp="1637177079027" />
+    <state x="580" y="171" key="FileChooserDialogImpl" timestamp="1636021108425">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="171" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1636021108425" />
+    <state width="1579" height="2" key="GridCell.Tab.0.bottom" timestamp="1638617219611">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="2" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1638617219611" />
+    <state width="1579" height="2" key="GridCell.Tab.0.center" timestamp="1638617219609">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="2" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1638617219609" />
+    <state width="1579" height="2" key="GridCell.Tab.0.left" timestamp="1638617219605">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="2" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1638617219605" />
+    <state width="1579" height="2" key="GridCell.Tab.0.right" timestamp="1638617219610">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="2" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1638617219610" />
+    <state x="301" y="75" key="SettingsEditor" timestamp="1637297069355">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="75" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1637297069355" />
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1636305943140">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1600.860@0.0.1600.860" timestamp="1636305943140" />
+    <state x="521" y="171" width="540" height="524" key="StructurePopup" timestamp="1636997502422">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="521" y="171" width="540" height="524" key="StructurePopup/0.0.1600.860@0.0.1600.860" timestamp="1636997502422" />
+    <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1637302061722">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1637302061722" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1637799541675">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1637799541675" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1638525026742">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1638525026742" />
+  </component>
+</project>
